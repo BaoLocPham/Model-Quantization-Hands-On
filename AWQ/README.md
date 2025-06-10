@@ -1,3 +1,4 @@
+## AWQ
 
 [Activation-aware Weight Quantization](https://hf.co/papers/2306.00978) (AWQ) preserves a small fraction of the weights that are important for LLM performance to compress a model to 4-bits with minimal performance degradation.
 

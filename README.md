@@ -15,3 +15,7 @@ Target model type: LLM
 Target model type: LLM
 [See details in AWQ/README.md](./AWQ/README.md)
 
+## GPTQ
+
+Target model type: LLM
+[See details in GPTQ/README.md](./GPTQ/README.md)
